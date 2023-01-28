@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brumacosmin
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML, CSS and JavaSript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me brumacosmin@yahoo.com
 
